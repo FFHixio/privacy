@@ -31,7 +31,7 @@
 		"@nextcloud/l10n": "^1.4.1",
 		"@nextcloud/router": "^1.2.0",
 		"@nextcloud/vue": "^2.6.5",
-		"core-js": "^3.4.4",
+		"core-js": "^3.22.7",
 		"vue": "^2.6.12",
 		"vue-click-outside": "^1.1.0",
 		"vuex": "^3.6.2"
@@ -69,7 +69,7 @@
 		"stylelint-config-recommended-scss": "^4.2.0",
 		"stylelint-scss": "^3.18.0",
 		"stylelint-webpack-plugin": "^2.1.1",
-		"vue-loader": "^15.9.3",
+		"vue-loader": "^17.0.0",
 		"vue-template-compiler": "^2.6.12",
 		"webpack": "^4.44.2",
 		"webpack-cli": "^3.3.12",
