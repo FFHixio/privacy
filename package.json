@@ -30,6 +30,10 @@
 		"@nextcloud/initial-state": "^1.2.0",
 		"@nextcloud/l10n": "^1.4.1",
 		"@nextcloud/router": "^1.2.0",
+snyk-upgrade-eb417b75a7a170b64b139ea114299a19
+		"@nextcloud/vue": "^2.9.0",
+		"core-js": "^3.4.4",
+
 		"@nextcloud/vue": "^2.6.5",
 snyk-upgrade-ad58f96eeade540f7316fa8d155a5b92
 		"core-js": "^3.15.0",
