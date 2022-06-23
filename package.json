@@ -61,7 +61,7 @@ snyk-upgrade-ad58f96eeade540f7316fa8d155a5b92
 		"babel-eslint": "^10.1.0",
 		"babel-jest": "^26.3.0",
 		"babel-loader": "^8.2.2",
-		"css-loader": "^4.2.2",
+		"css-loader": "^5.2.7",
 		"eslint": "^6.8.0",
 		"eslint-config-standard": "^12.0.0",
 		"eslint-friendly-formatter": "^4.0.1",
