@@ -75,7 +75,7 @@ snyk-upgrade-ad58f96eeade540f7316fa8d155a5b92
 		"eslint-plugin-vue": "^6.2.2",
 		"stylelint": "^14.0.0",
 		"stylelint-config-recommended-scss": "^4.2.0",
-		"stylelint-scss": "^3.18.0",
+		"stylelint-scss": "^3.21.0",
 		"stylelint-webpack-plugin": "^2.1.1",
 		"vue-loader": "^17.0.0",
 		"vue-template-compiler": "^2.6.12",
